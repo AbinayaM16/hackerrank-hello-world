@@ -1,2 +1,1 @@
-# hackerrank-hello-world
-hackerrank solution for hello world program
+this file is to verify the python solutions in hackerrank
